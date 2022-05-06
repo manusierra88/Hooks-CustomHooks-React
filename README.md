@@ -1,3 +1,8 @@
+# Respositorio que muestra el uso de hooks, hooks customizados y la implementacion del Router v6 con la aplicacion de useContext
+# Como demostración para ver el uso de variables en todo el arbol de componentes con acceso de componentes hijos a data global. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,13 @@
+body{
+    padding: 4rem;
+}
+
+input{
+    margin: 1.5rem;
+    
+}
+
+.form-control{
+    border: solid 2px orangered;
+    width: 25rem;
+}

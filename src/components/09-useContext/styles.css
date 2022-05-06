@@ -1,0 +1,33 @@
+
+.navBar{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    min-height: 8rem;
+    background-color: rgb(104, 127, 104);
+    text-decoration: none;
+    padding: 1.5rem;
+}
+
+
+
+.linkContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.navLink{
+    color: black;
+    text-decoration: none;
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+
+.navLink:hover{
+    color: white;
+}
+
+
